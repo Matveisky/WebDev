@@ -1,0 +1,19 @@
+h1{
+	background: black;
+	color: white;
+}
+
+#biography {
+	background: black;
+	color: white;
+}
+
+h2.section-discography {
+	background: black;
+	color: white;
+}
+
+h2.section-creator, h2.section-links {
+	background: black;
+	color: white;}
+
