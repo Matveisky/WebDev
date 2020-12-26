@@ -41,9 +41,10 @@
 	height: 80px;
 	font-family: 'NeueMachina-Medium';
 	color: white;
-	font-size: 17px;
+	font-size: 15px;
 	font-weight: normal;
 	text-align: center;
+	padding-top: 5px;
 	text-transform: uppercase;
 	text-decoration: underline;
 	background-color: #0093E9;
