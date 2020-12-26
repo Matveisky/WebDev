@@ -1,0 +1,241 @@
+@import url(reset.css);
+
+
+.page	{
+	width: 1440px;
+	height: 1000px;
+	}
+
+.header-container {
+	position: absolute;
+	height: 60px;
+	width: 1440px;
+	background-color:#FE1A19;
+	right: 0px;
+	top: 0px;
+	left: 0px;
+	display: block;	
+}
+
+.header-text {
+	position: absolute;
+	width: 820px;
+	height: 20px;
+	left: 40px;
+	top: 20px;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 23px;
+	display: block;
+	color: white;
+}
+
+.main-content {
+	height: 1000px;
+	width: 1440px;
+}
+
+.first-content {
+	background-color: white;
+	width: 350px;
+	height: 900px;
+	border: 5px solid gold;
+	box-sizing: border-box;
+	position: absolute;
+	left: 70px;
+	top:112px;
+	bottom: 112px;
+	right: 30px;
+	border-radius: 30px;
+	display: block;
+}
+
+
+.first-tart {
+	position: absolute;
+	width: 207px;
+	height: 23px;
+	left: 33px;
+	top: 33px;
+	right: 160px;
+	bottom: 744px;
+
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 23px;
+	display: block;
+	color: #000000
+}	
+
+.first-recipe {
+	position: absolute;
+	width: 334px;
+	height: 650px;
+	left: 30px;
+	top: 97px;
+	right: 30px;
+	bottom: 30px;
+
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 23px;
+	display: block;
+	color: #000000;
+
+}
+
+.list-two {
+	margin-top: 50px;
+
+}
+
+.list-three {
+	margin-top: 50px;	
+}
+
+.list-four {
+	margin-top: 50px;
+}
+
+
+.second-content {
+	background-color: white;
+	width: 350px;
+	height: 900px;
+	border: 5px solid gold;
+	box-sizing: border-box;
+	position: absolute;
+	left: 470px;
+	top:112px;
+	bottom: 112px;
+	right: 520px;
+	border-radius: 30px;
+	display: block;
+	
+}
+
+.second-tart {
+	position: absolute;
+	width: 207px;
+	height: 23px;
+	left: 30px;
+	top: 30px;
+	right: 160px;
+	bottom: 744px;
+
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 23px;
+
+	display: block;
+	color: #000000
+	
+}
+
+.second-recipe {
+	position: absolute;
+	width: 334px;
+	height: 650px;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 23px;
+	display: block;
+	margin-top: 41px; 
+	margin-left: 33px;
+
+	color: #000000;
+	
+}
+
+.third-content {
+	background-color: white;
+	width: 350px;
+	height: 900px;
+	border: 5px solid gold;
+	box-sizing: border-box;
+	position: absolute;
+	left: 870px;
+	top:112px;
+	bottom: 112px;
+	right: 30px;
+	border-radius: 30px;
+	display: block;
+	
+}
+
+.third-tart {
+	position: absolute;
+	width: 207px;
+	height: 23px;
+	left: 30px;
+	top: 30px;
+	right: 160px;
+	bottom: 744px;
+
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 23px;
+
+	display: block;
+	color: #000000
+
+}
+
+.third-recipe {
+	position: absolute;
+	width: 334px;
+	height: 650px;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 23px;
+	display: inline-block;
+	margin-top: 41px; 
+	margin-left: 33px;
+	color: #000000;
+
+
+}
+
+.footer-content {
+	position: absolute;
+	width: 1440px;
+	height: 60px;
+	left: 0px;
+	top: 1052px;
+	display: block;
+	background: #FE1A19;
+}
+
+.footer-tittle {
+	position: absolute;
+	width: 300px;
+	height: 20px;
+	left: 40px;
+	top: 20px;
+	right:1250px;
+	bottom:20px;
+
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 23px;
+	display: block;
+	letter-spacing: 1px;
+	color: white;
+}
+
